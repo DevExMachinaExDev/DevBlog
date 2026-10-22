@@ -1,0 +1,28 @@
+# _00002_Devlog22102026
+
+So todays focus was more practice of data algorithms and getting refamiliarised with leetcode on this 5 week journey back into competence.
+
+I revisited "Contains duplicate 2" as a nice little revisit to a simple hashmap problem.
+
+Then for today's menu we had:
+
+- Product of array except self
+- Longest consecutive sequence
+- Valid palindrome
+
+Product of array except self was the one i struggled with the most and kicked myself when it was done that i didn't think of that. I felt that i got really stuck on the concept of the simplest solution without the restrictions the question imposed that it blinded me to the obvious solution. So a reminder for all you devs out there that anchoring bias is definitely real and just because a similar problem is being fixed in a certain way here it doesn't mean that this ones best solution is the same.
+
+longest consecutive sequence went pretty well except for trying to destroy things whilst iterating over it. I feel i could have gotten it to work better but hey-ho it got solved! It was also a great reintroduction to sets over maps and when to use them.
+
+The palindrome question really was just revisiting a class for me to be fair but serves as a good reminder that you can iterate over loop elements within itself to skip unnecessary sections and still have O(n) time complexity.
+
+Overall today has been a bit of a mixed bag. We maths problems, set problems and two pointer problems... a wide array of different coding techniques for the eyes and mind. 
+
+The strict work schedule is working out quite well at the moment with energy and life still tippy top and not currently reading the questions 200 times to understand them due to exhaustion so its all going very well!
+
+Key takeaways:
+- Preserve energy and stay consistent rather than burning out to solve problems right now.
+- Be aware of the constraints of a problem.
+- Don't get too anchored on a solution to a problem.
+- Sets are great for quick membership testing.
+
